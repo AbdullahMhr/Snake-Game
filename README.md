@@ -5,7 +5,7 @@ Repository for (codebasics youtube channel python projects)
 ### 1. Snake and apple game
 In this project we have build a complete snake and apple video game using pygame module. 
 
-[Click here to go to this project](https://github.com/codebasics/python_projects/tree/main/1_snake_game)
+[Click here to go to this project](https://github.com/AbdullahMhr/Snake-Game/tree/main/1_snake_game)
 
 
 ### 2. Document text extraction using OCR (Coming up soon)
